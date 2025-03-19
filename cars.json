@@ -1,15 +1,62 @@
 [
     {
-      "id": 1,
-      "name": "Bugatti Chiron",
-      "price": 3000000,
-      "image": "images/bugatti-chiron.jpg"
+        "id": 1,
+        "name": "Bugatti Chiron",
+        "price": 3000000,
+        "image": "images/bugatti-chiron.jpg"
     },
     {
-      "id": 2,
-      "name": "Lamborghini Aventador",
-      "price": 500000,
-      "image": "images/lamborghini-aventador.jpg"
+        "id": 2,
+        "name": "Lamborghini Aventador",
+        "price": 500000,
+        "image": "images/lamborghini-aventador.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Ferrari LaFerrari",
+        "price": 1400000,
+        "image": "images/ferrari-laferrari.jpg"
+    },
+    {
+        "id": 4,
+        "name": "McLaren P1",
+        "price": 1200000,
+        "image": "images/mclaren-p1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Porsche 918 Spyder",
+        "price": 850000,
+        "image": "images/porsche-918-spyder.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Aston Martin Valkyrie",
+        "price": 3000000,
+        "image": "images/aston-martin-valkyrie.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Mercedes-AMG One",
+        "price": 2700000,
+        "image": "images/mercedes-amg-one.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Rolls-Royce Phantom",
+        "price": 450000,
+        "image": "images/rolls-royce-phantom.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Bentley Continental GT",
+        "price": 220000,
+        "image": "images/bentley-continental-gt.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Hennessey Venom F5",
+        "price": 2700000,
+        "image": "images/hennessey-venom-f5.jpg"
     }
-  ]
-  
+]
